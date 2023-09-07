@@ -1,0 +1,11 @@
+**Click Through Rate Prediction (ML Model selection)**
+
+Domain: Digital Marketing | Tech Stack: Python (ML model selection)
+
+Problem Statement/Objective:
+The objective is to predict whether the audience will click on an ad or not and thus help the marketing team answer ad placement-related questions.
+In online advertising, CTR is a very important metric for evaluating ad performance. CTR prediction systems are thus essential and widely used for sponsored search and real-time bidding.
+
+Conclusion/Outcome:
+According to feature importance graph of Random Forest / XG Boost company should consider top       5-10 different features to control Click Through Rate.
+Company should consider various anonymized parameters to increase a greater number of clicks and highest CTR to increase the advertisement visibility and conversion.

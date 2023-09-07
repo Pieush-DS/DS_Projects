@@ -1,0 +1,17 @@
+Variable ,Description,,,,,,Dtype
+click: ,0/1 for non-click/click,,,,,,Bool
+"hour: format is YYMMDDHH, so 14091123 means 23:00 on Sept. 11, 2014 UTC.",,,,,,,int64
+C1,anonymized categorical variable,,,,,,int64
+banner_pos,position of the ad/banner on the page,,,,,,int64
+site_id,unique id of the site on which the ad is shown,,,,,,object
+site_domain,unique domain of the site on which the ad is shown,,,,,,object
+site_category,category of the site on which the ad is shown,,,,,,object
+app_id,app id of the site on which the ad is shown,,,,,,object
+app_domain,app category of the site on which the ad is shown,,,,,,object
+app_category,category id of the site on which the ad is shown,,,,,,object
+device_id,device id on which the add was shown,,,,,,object
+device_ip,ip address of the device on which the ad was shown,,,,,,object
+device_model,model type of the device on which the ad was shown,,,,,,object
+device_type,the device type on which the ad was shown,,,,,,int64
+device_conn_type,the connection type of the device on which the ad was shown,,,,,,int64
+C14 - C21,anonymized categorical variable,,,,,,int64
