@@ -1,0 +1,11 @@
+**Identify Entities in Healthcare for ‘BeHealthy’ using NER (Named Entity Recognition)** 
+
+Domain: Health | Tech Stack: Python (NER)
+
+Problem Statement/Objective:
+  Companies like ‘BeHealthy’ are providing medical services, prescriptions and online consultations and generating huge data day by day.
+  Therefore, to find out the disease and its probable treatment from the given dataset and store it in the form of a table or a dictionary is necessary to make it easier for the non-medical bacground people.
+  After analyzing the problem need to build a custom NER to get the list of diseases and their treatment from the data set.
+
+Conclusion:
+After analysis with the available data set the treatment for the disease "hereditary retinoblastoma" founded is "radiotherapy".
