@@ -1,0 +1,18 @@
+Syntactic Processing (NLP)
+
+Domain: Healthcare | Tech Stack: Python (NLP)
+
+Problem Statement/Objective:
+   To determine the disease name and its probable treatment from the dataset and list it out in the form of a table or a dictionary.
+   Companies like ‘BeHealthy’ are providing medical services, prescriptions and online consultations and generating huge data day by day.
+
+Need to perform the following broad steps:
+    Process and modify the data into sentence format. This step has to be done for the 'train_sent' and ‘train_label’ datasets and for test datasets as well.
+    After that, need to define the features to build the CRF model.
+    Then, need to apply these features in each sentence of the train and the test dataset to get the feature values.
+    Once the features are computed, need to define the target variable and then build the CRF model.
+    Then, need to perform the evaluation using a test data set.
+    At the end, need to create a dictionary in which diseases are keys and treatments are values.
+
+Conclusion/Outcome:
+As per the given data dictionary the treatment for the disease "hereditary retinoblastoma" is "radiotherapy".
