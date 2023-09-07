@@ -1,0 +1,16 @@
+**Uber Car Rental Issue** 
+
+Domain: Transportation | Tech Stack: Python (EDA)
+
+Problem Statement/Objective:
+Issues regarding cancellation and non-availability of cabs for traveling to and from the airport during early morning cab bookings. This may impact the revenue generation of the company and issues faced by the customers.
+
+Business Goal:
+Identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to improve the situation of Demand-Supply gap. So, the company can improve its revenue generation.
+
+Conclusion:
+
+  Based on findings and analysis Morning hours (4:00 A.M. – 10:00 A.M.) are most critical when there is a hue supply-demand gap due to the unavailability of the Uber cabs. Whereas most of the request hours are also during the same duration.
+  Supply-Demand gap is higher on Wednesday for Airport.
+  To avoid such cancellations or No-availability of cabs Uber should increase a greater number of cabs on both the pickup points, may provide extra benefits or bonus to the cab drivers during the critical hours and can apply penalty to the cab driver who cancelled the requests more than a certain numbers of bookings (2-3) in a day for a particular pickup point specially during the related critical hours. 
+  May create a cab stand at Airport where cabs could be available all the time.
