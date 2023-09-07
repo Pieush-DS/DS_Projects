@@ -1,3 +1,2 @@
-# Data-Scientist
-My various learnings
---------------EDA Case Study------------------
+# Data-Science
+My various Data Science Projects are here to showcase. 
