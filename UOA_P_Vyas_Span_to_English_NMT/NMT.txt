@@ -1,0 +1,12 @@
+**Spanish to English Neural Machine Translation (NMT) Model building**  
+
+Domain: Insurance | Tech Stack: Python (ML-NMT)
+
+Problem Statement:
+Build an attention-based sequence-to-sequence model that can effectively understand the context of Spanish sentences and translate them into clear and coherent English sentences. The company aims to use this model to ensure seamless communication and provide coverage to the Spanish-speaking community in Mexico.
+
+Objectives: To explore the challenges of working with low-resource languages. Implement an encoder-decoder NMT model with attention.
+Terminal Objective: To build and train an NMT model that can accurately translate Spanish sentences to English and vice versa.
+
+Conclusion/Outcome:
+Getting successful conversion of Spanish to English and vice versa using Attention based sequence-to-sequence model.
