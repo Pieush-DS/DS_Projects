@@ -1,0 +1,13 @@
+** Finance and Risk Analytics for Portfolio Management**
+ 
+Domain: Finance | Tech Stack: Python, streamlit
+
+Problem Statement/Objective:
+  The industry of wealth management has seen a lot of growth. Individuals and businesses actively seek maximum returns. However, in many cases, they lack either the skills to identify the right investment opportunities or the time to find such opportunities.
+  This challenge gave rise to the dedicated individuals who perform this task on behalf of the investors for a commission: portfolio managers. A portfolio manager makes investment decisions and carries out other related activities on behalf of vested investors.
+  Help to understand stock's closing price, normalize closing price, daily returns, comparison with other stocks, their distributions, and few more parameters per the requirement of Portfolio Management.
+  Provide consultation to two different investors, Mr. Patrick Jyenger and Mr. Peter Jyenger based on their requirements and financial objectives.
+
+Conclusion:
+  After Portfolio management for both the investor's, we can say that the Stocks we found for Mr. Petrik are giving 2.04 times return in the next 5 years but with very low risk (6.11). However, selected stocks for Mr. Peter are giving 2.3 times return of his investment which is nearly 1.13 times higher than Mr. Petrik's stock but simultaneously the Avg. Risk is nearly 15 times higher.
+  It means higher return may have higher risks.
