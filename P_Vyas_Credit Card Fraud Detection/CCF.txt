@@ -1,0 +1,17 @@
+Problem Statement/Objective:
+
+Predict fraudulent credit card transactions with the help of Machine learning models. Analyse customer-level data that has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group.
+
+Business Problem:
+Many banks, retaining high profitable customers is the number one business goal. Banking fraud, however, poses a significant threat to this goal for different banks. In terms of substantial financial losses, trust and credibility, this is a concerning issue to both banks and customers alike.
+Understanding and defining Fraud:
+Credit card fraud is any dishonest act or behaviour to obtain information without proper authorisation from the account holder for financial gain. Among different ways of committing frauds, skimming is the most common one, which is a way of duplicating information that is located on the magnetic strip of the card.
+
+There are few other ways of Credit Card Fraud:
+     Manipulation/alteration of genuine cards
+     Creation of counterfeit cards
+     Stealing/loss of credit cards
+     Fraudulent telemarketing
+
+Conclusion:
+A threshold of 0.9880 has been predicted which has a Precision of 99.42% and F-1 score of 99.56% on Training data whereas, 97.27%, 82.94% respectively on Test data. As predicted High Precision is good in predicting "Actual positives as True Positives". Thus, helping the bank in not wasting resources identifying a fraud.
