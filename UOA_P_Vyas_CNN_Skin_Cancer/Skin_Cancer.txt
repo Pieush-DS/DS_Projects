@@ -1,0 +1,12 @@
+**Multiclass Classification model of Skin Cancer Detection using CNN in Tensorflow**
+
+Domain: Health | Tech Stack: Python (CNN in Tensorflow)
+
+Problem Statement/Objective:
+To build a CNN based model which can accurately detect melanoma. 
+Melanoma is a type of cancer that can be deadly if not detected early. 
+It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+Conclusion:
+  As per the analysis a final model-3 is a good model for our problem statement. 
+A Dermatologists can timely detect and do the analysis by evaluating images of the Melanoma (a type of cancer) therefore, number of deaths can be reduced. Such in time and accurate analysis reduces a lot of manual efforts which are required in diagnosis.
