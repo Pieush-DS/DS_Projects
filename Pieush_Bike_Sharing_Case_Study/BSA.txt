@@ -1,0 +1,24 @@
+Bike Sharing Analysis using Linear Regression
+
+Domain: Transportation | Tech Stack: Python (ML model-Linear Regression)
+
+Problem Statement/ Objective:
+A US bike-sharing provider ‘BoomBikes’ has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. 
+‘BoomBikes’ aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. Therefore, they want to understand the factors affecting the demand for these shared bikes in the American market.
+
+The company wants to know:
+  Which variables are significant in predicting the demand for shared bikes.
+  How well those variables describe the bike demands.
+
+Required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
+
+Business Goal:
+Required to model the demand for shared bikes with the available independent variables. 
+It will be used by the management to understand how exactly the demands vary with different features. So, they can manipulate the business strategy to meet the demand levels and meet the customer's expectations as well as the model will be a good way for the management to understand the demand dynamics of a new market.
+
+Conclusion:
+  As per the model Bike demand depends on various variables like yr, Clear or Partly Cloudy, Sept, fall, winter, Feb, Nov, Dec, spring, Jan, windspeed, Light Rain_Light Snow.
+  Bike demand increases during yr, Clear or Partly Cloudy, Sept, fall, winter.
+  Bike demand decreases during high windspeed, holidays, Light Rain_Light Snow weather, as well as during the month of Nov, Dec, Jan, Feb, and spring season.
+  Bike demand is higher in the month of Sept, during fall season, during Clear or Partly Cloudy weather and slightly during winter season.
+  Overall bike rental demands depend mostly on holidays, weather, month and season which also means variation in temperature also affects bike rentals.
